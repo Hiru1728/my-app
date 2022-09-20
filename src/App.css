@@ -32,7 +32,25 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+.container {
+  color: red;
+  background-color: aquamarine;
+  padding: 20px;
+  border: 2px solid purple;
+  margin: 10px;
+  border-radius: 20px;
+}
+
+.person {
+  background-color: darkkhaki;
+  border: 3px solid rebeccapurple;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 20px;
 }
